@@ -14,8 +14,8 @@ import {
   StyleSheet,
   Text,
   View,
-  ViewPropTypes,
 } from 'react-native';
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 
 const SwipeoutBtn = createReactClass({
 
